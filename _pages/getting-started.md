@@ -1,24 +1,26 @@
 ---
 layout: page
-title: Getting started with Reverie
+title: Getting started
 permalink: /getting-started/
 ---
 
 ### Step 1) Fork Reverie to your User Repository
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `whatever`.
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+### Step 2) Connect to Netlify
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+Before we start customsing content, let us get the site up and running first.
 
-### Step 2) Customize and view your site
+Go to Netlify and do what you got to do to make a new Site, connect it to the repo and bang! `#TBC`
+
+### Step 3) Customize and view your site
 
 Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
+Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable later at <https://something-something-whatever.netlify.app> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
 
-### Step 3) Publish your first blog post
+### Step 4) Publish your first blog post
 
 Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
 
